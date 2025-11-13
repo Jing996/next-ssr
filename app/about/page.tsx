@@ -158,7 +158,7 @@ export default function AboutPage() {
                 <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
                     <a
                         href="/"
-                        className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors inline-block"
+                        className=" hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors inline-block"
                     >
                         ← 返回首页
                     </a>

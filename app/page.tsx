@@ -82,7 +82,7 @@ export default function Home() {
                     <div className="mt-8 flex gap-4">
                         <a
                             href="/posts"
-                            className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors"
+                            className=" hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors"
                         >
                             查看文章列表 →
                         </a>

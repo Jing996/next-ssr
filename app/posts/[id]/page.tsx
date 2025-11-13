@@ -53,7 +53,7 @@ export default async function PostDetailPage({
                 </a>
                 <a
                     href="/"
-                    className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors"
+                    className=" hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors"
                 >
                     回到首页
                 </a>
