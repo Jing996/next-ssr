@@ -1,5 +1,5 @@
-const { db } = require("./index");
-const { posts } = require("./schema");
+import { db } from "./index";
+import { posts } from "./schema";
 
 async function seed() {
     console.log("🌱 开始初始化数据库...");
